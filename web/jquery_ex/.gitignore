@@ -1,0 +1,6 @@
+test/
+test/**
+
+**/multi/
+**/*.mp4
+**/*.mp3
