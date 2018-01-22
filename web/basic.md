@@ -19,13 +19,14 @@
    2. after(), before()
    3. html()
    4. val(), text(), attr()
+   5. empty(), removeAttr(), remove()
 9. hasClass() | is()
 10. event()
-    1. click, dblclick
-    2. keydown, keyup
-    3. mousewhell | DOMMouseScroll
-    4. scroll
-    5. resize
+   1. click, dblclick
+   2. keydown, keyup
+   3. mousewhell | DOMMouseScroll
+   4. scroll
+   5. resize
 11. width() | height()
     1. innerWidth() , outerWidth(), outerWidth(true)
     2. innerHeight() , outerHeight(), outerHeight(true)
@@ -35,22 +36,25 @@
 13. scrollTop() | offset().top | offset().left
 14. parseInt() | parseFloat()
 15. setInterval() | clearInterval() | setTimeout() 
-
+16. play(), pause(), load()
 
 
 ---
 
 ## example
 
-1. show | hide | toggle 기초기능
-2. accordion menu - 세로형
-3. accordion menu - 가로형
-4. tab menu 
-5. one page scroll
-6. multi player
-7. parallax scroll
-8. slide banner - &lt; , &gt; button
-9. slide banner - indicator
-10. image gallery
-10. slide banner - &lt;, &gt;, indicator
-11. slide banner - js make
+1. [show | hide | toggle  기초기능](jquery_test/html/js_01_showHide.html)
+2. [accordion menu - 세로형(slideDown | slideUp)](jquery_test/html/js_02_accordionV.html)
+3. [animate callback 기초기능](jquery_test/html/js_03_animateCallback.html)
+4. [accordion menu - 세로형(animate)](jquery_test/html/js_04_accordionV.html)
+5. [accordion menu - 가로형](jquery_test/html/js_05_accordionH.html)
+6. [eq | index 기초기능]([tab menu](jquery_test/html/js_06_eqIndex.html) )
+7. [tab menu](jquery_test/html/js_07_tabMenu.html) 
+8. one page scroll
+9. multi player
+10. parallax scroll
+11. slide banner - &lt; , &gt; button
+12. slide banner - indicator
+13. image gallery
+14. slide banner - &lt;, &gt;, indicator
+15. slide banner - js make
