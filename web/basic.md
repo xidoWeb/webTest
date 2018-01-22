@@ -22,11 +22,11 @@
    5. empty(), removeAttr(), remove()
 9. hasClass() | is()
 10. event()
-   1. click, dblclick
-   2. keydown, keyup
-   3. mousewhell | DOMMouseScroll
-   4. scroll
-   5. resize
+  1. click, dblclick
+  2. keydown, keyup
+  3. mousewhell | DOMMouseScroll
+  4. scroll
+  5. resize
 11. width() | height()
     1. innerWidth() , outerWidth(), outerWidth(true)
     2. innerHeight() , outerHeight(), outerHeight(true)

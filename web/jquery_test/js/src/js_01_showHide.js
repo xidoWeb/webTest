@@ -13,38 +13,28 @@
  var btn = $('#navigation').find('li');
  var par = $('p'); 
  var timed = 500;
- // http://easings.net/ko
-
- var easing =[
-      'easeInSine','easeOutSine','easeInOutSine','easeInQuad',
-      'easeOutQuad','easeInOutQuad','easeInCubic','easeOutCubic',
-      'easeInOutCubic','easeInQuart','easeOutQuart','easeInOutQuart',
-      'easeInQuint','easeOutQuint','easeInOutQuint','easeInExpo',
-      'easeOutExpo','easeInOutExpo','easeInCirc','easeOutCirc',
-      'easeInOutCirc','easeInBack','easeOutBack','easeInOutBack',
-      'easeInElastic','easeOutElastic','easeInOutElastic','easeInBounce',
-      'easeOutBounce','easeInOutBounce'];
-
+ // easings.net/ko
+ var easing = 'easeInBounce';
  var myindex = function(i){
   switch(i){
     case 0:
       par.show(timed);               break;
     case 1:
-      par.hide(timed, easing[11]);               break;
+      par.hide(timed, easing);               break;
     case 2:
-      par.toggle(timed, easing[12]);             break;
+      par.toggle(timed, easing);             break;
     case 3:
-      par.fadeIn(timed, easing[13]);             break;
+      par.fadeIn(timed, easing);             break;
     case 4:
-      par.fadeOut(timed, easing[14]);            break;
+      par.fadeOut(timed, easing);            break;
     case 5:
-      par.fadeToggle(timed, easing[15]);         break;
+      par.fadeToggle(timed, easing);         break;
     case 6:
-      par.slideDown(timed, easing[16]);          break;
+      par.slideDown(timed, easing);          break;
     case 7:
-      par.slideUp(timed, easing[17]);            break;
+      par.slideUp(timed, easing);            break;
     case 8:
-      par.slideToggle(timed, easing[18]);        break;
+      par.slideToggle(timed, easing);        break;
     case 9:
       par.removeAttr('style');
       par.delay(timed).addClass('show');     break;
