@@ -42,3 +42,15 @@
 
 ## example
 
+1. show | hide | toggle 기초기능
+2. accordion menu - 세로형
+3. accordion menu - 가로형
+4. tab menu 
+5. one page scroll
+6. multi player
+7. parallax scroll
+8. slide banner - &lt; , &gt; button
+9. slide banner - indicator
+10. image gallery
+10. slide banner - &lt;, &gt;, indicator
+11. slide banner - js make
