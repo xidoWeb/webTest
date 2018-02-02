@@ -14,7 +14,7 @@
 5. callBack function(){}
 6. show() | hide() | toggle()
 7. addClass() | removeClass()
-8. make html
+8. make/delete/import html
    1. wrap() 
    2. after(), before()
    3. html()
@@ -46,36 +46,37 @@
 
 ## example
 
-1. [show | hide | toggle  기초기능](https://xidoweb.github.io/webTest/web/jquery_test/html/js_01_showHide.html)
+1. [show | hide | toggle  기초기능](https://xidoweb.github.io/webTest/web/jquery_test/html/a_show_hide_toggle/js_01_showHide.html)
 
 2. accordion 세로형기능
 
-   1. [accordion menu - 세로형1(slideDown | slideUp)](https://xidoweb.github.io/webTest/web/jquery_test/html/js_02_accordionV.html)
-   2. [animate callback 기초기능](https://xidoweb.github.io/webTest/web/jquery_test/html/js_03_animateCallback)
-   3. [accordion menu - 세로형2(animate)](https://xidoweb.github.io/webTest/web/jquery_test/html/js_04_accordionV.html)
+   1. [accordion menu - 세로형1(slideDown | slideUp)](https://xidoweb.github.io/webTest/web/jquery_test/html/b_accordion/js_02_accordionV.html)
+   2. [animate callback 기초기능](https://xidoweb.github.io/webTest/web/jquery_test/html/b_accordion/js_03_animateCallback)
+   3. [accordion menu - 세로형2(animate)](https://xidoweb.github.io/webTest/web/jquery_test/html/b_accordion/js_04_accordionV.html)
 
 3. accordion 가로형기능
 
-   1. [accordion menu - 가로형(width)](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_06_accordion_02.html)
-   2. accordion menu - 가로형2(position)
-   3. accordion menu -  가로형3(applications)
+   1. [accordion menu - 가로형(width)](https://xidoweb.github.io/webTest/web/jquery_ex/html/b_accordion/js_05_accordionH1.html)
+   2. [accordion menu - 가로형2(position)](https://xidoweb.github.io/webTest/web/jquery_ex/html/b_accordion/js_05_accordionH2.html)
+   3. [accordion menu -  가로형3(applications)](https://xidoweb.github.io/webTest/web/jquery_ex/html/b_accordion/js_05_accordionH3.html)
 
 4. menu
 
-   1. drop down menu_1(1depth)
-   2. drop down menu_2(2depth~)
-   3. drop down menu_3(all)
-   4. button menu_1(click view, slideDown)
-   5. button menu_2(button animation,before|after)
-   6. button menu_3(hover menu 물결무늬처리,position)
-   7. button menu_4(클릭위치 파장처리-pageX,pageY)
+   1. [tab menu_1(accordion_menu1응용)](https://xidoweb.github.io/webTest/web/jquery_ex/html/c_menu/js_05_tabMenu_01.html)
+   2. [eq | index 기초기능](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_07_indexEq_01.html) 
+   3. [tab menu](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_06_tabMenu_02.html)
+   4. [drop down menu_1(1depth)](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_08_menu_depth_01.html)
+   5. [drop down menu_2(all)](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_08_menu_depth_02.html)
+   6. [button menu_1(click view, slideDown)](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_08_menu_depth_03.html)
+   7. drop down menu_3(2depth~)
+   8. button menu_2(button animation,before|after)
+   9. button menu_3(hover menu 물결무늬처리,position)
+   10. button menu_4(클릭위치 파장처리-pageX,pageY)
 
 5. 선택, 해당값 처리기능
 
-   1. [eq | index 기초기능](https://xidoweb.github.io/webTest/web/jquery_test/html/js_06_eqIndex.html) 
-   2. [tab menu](https://xidoweb.github.io/webTest/web/jquery_test/html/js_07_tabMenu.html)
-   3. one page scroll
-   4. image gallery
+   1. [one page scroll](https://xidoweb.github.io/webTest/web/jquery_test/html/f_scroll_page/js_08_onepageScroll_01.html)
+   2. image gallery
 
 6. import
 
