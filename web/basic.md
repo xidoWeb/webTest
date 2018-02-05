@@ -70,7 +70,7 @@
    6. (o) [drop down menu_2(all)](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_08_menu_depth_02.html)
    7. (o) [button menu_1(click view, slideDown)](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_08_menu_depth_03.html)
    8. drop down menu_3(2depth~)
-   9. (x) [side menu](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_08_slide_button.html)
+   9. (x) [side menu](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_08_slide_button.html)
    10. button menu_2(button animation,before|after)
    11. button menu_3(hover menu 물결무늬처리,position)
    12. button menu_4(클릭위치 파장처리-pageX,pageY)
@@ -79,13 +79,13 @@
 5. 선택, 해당값 처리기능
 
    1. (o) [one page scroll](https://xidoweb.github.io/webTest/web/jquery_test/html/f_scroll_page/js_08_onepageScroll_01.html)
-   2. (x) [im3age-gallery_1(data속성사용하기)](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_09_gallery_01.html)
-   3. (x) [image-gallery_2(json속성사용하기)](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_09_gallery_02.html)
+   2. (x) [im3age-gallery_1(data속성사용하기)](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_09_gallery_01.html)
+   3. (x) [image-gallery_2(json속성사용하기)](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_09_gallery_02.html)
 
 6. import
 
    1. json | text 기초 이해하기(외부문서처리하기)
-   2. (x) [이미지갤러리_3(모달윈도우)](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_13_modal_01.html)
+   2. (x) [이미지갤러리_3(모달윈도우)](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_13_modal_01.html)
    3. multi player
    4. 상품내용보기
 
@@ -93,8 +93,8 @@
 
    1. (o) [slide banner_1 - &lt; , &gt; button](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_10_slideBanner_01.html)
    2. (x) [slide banner_2 - &lt; , &gt; button 겹친 이미지 banner]( )
-   3. (x) [slide banner_3 - indicator](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_19_slideBanner_02.html)
-   4. (x) [slide banner_4 - &lt;, &gt;, indicator](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_19_slideBanner_03.html)
+   3. (x) [slide banner_3 - indicator](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_19_slideBanner_02.html)
+   4. (x) [slide banner_4 - &lt;, &gt;, indicator](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_19_slideBanner_03.html)
    5. slide banner_4 - json이용하여 만들기
 
 8. scroll page
@@ -102,10 +102,10 @@
    1. (o) [offset(), scrollTop() 기초이해](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_14-1_scrollTop_offset.html)
    2. (o) [scroll fix, resize](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_15_scrollFix_header.html)
    3. [parallax scroll]
-   4. (x) [randing page](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_17_randing_01.html)
+   4. (x) [randing page](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_17_randing_01.html)
    5. video (width:100%, height:100%)
-   6. (x) [mouse wheel 기초이해하기 ](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_16_mousewheel_01.html)
-   7. (x) [mouse wheel 이용한 휠페이지V](https://xidoweb.github.io/webTest/web/jquery_ex/jquery_16_mousewheel_02.html)
+   6. (x) [mouse wheel 기초이해하기 ](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_16_mousewheel_01.html)
+   7. (x) [mouse wheel 이용한 휠페이지V](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_16_mousewheel_02.html)
    8. random 숫자만들기
    9. counter view
 
