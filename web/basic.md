@@ -70,7 +70,7 @@
    6. (o) [drop down menu_2(all)](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_08_menu_depth_02.html)
    7. (o) [button menu_1(click view, slideDown)](https://xidoweb.github.io/webTest/web/jquery_test/html/c_menu/js_08_menu_depth_03.html)
    8. drop down menu_3(2depth~)
-   9. (x) [side menu](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_08_slide_button.html)
+   9. (o) [side menu](https://xidoweb.github.io/webTest/web/jquery_ex/html/jquery_08_slide_button.html)
    10. button menu_2(button animation,before|after)
    11. button menu_3(hover menu 물결무늬처리,position)
    12. button menu_4(클릭위치 파장처리-pageX,pageY)
